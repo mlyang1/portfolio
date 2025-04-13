@@ -4,13 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
+    <link rel="stylesheet" href="../style.css">
 
     <nav>
-        <a href="../index.html">Personal site and Portfolio</a>
-        <a href="../projects/index.html">Projects</a>
-        <a href="index.html">Contact</a>
-        <a href="https://github.com/mlyang1/" target="_blank">GitHub</a>
-        <a href="../resume/index.html">Resume</a>
+        <ul>
+            <li>
+                <a href="../index.html">Home</a>
+            </li>
+            <li>
+                <a href="../projects/index.html">Projects</a>
+            </li>
+            <li>
+                <a href="../resume/index.html">Resume</a>
+            </li>
+            <li>
+                <a class="current" href="../index.html">Contact</a>
+            </li>
+            <li>
+                <a href="https://github.com/mlyang1/" target="_blank">GitHub</a>
+            </li>
+        </ul>
     </nav>
 
 </head>
@@ -21,17 +34,30 @@
     
     <form action="mailto:mlyang@ucsd.edu" media="POST" enctype="text/plain">  
         <label for="email">
-            Email 
+            Email:
             <input name="email" type="email">
         </label>
         <label for="subject"> 
-            Subject
+            Subject:
             <input name="subject">
         </label>
         <label for="body">
-            Body
+            Message:
             <textarea name="body"></textarea>
         </label>
+        
+        <!-- 
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email">
+
+            <label for="subject">Subject:</label>
+            <input name="subject">
+            
+            <label for="message">Message:</label>
+            <textarea id="message" name="message"></textarea>
+            <button>Submit</button>
+        -->
+
         <button>Submit</button>
     </form>
 </body>
