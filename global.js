@@ -21,9 +21,9 @@ function $$(selector, context = document) {
 // As we saw in the slides, there are many ways to design a data structure to hold the association of URLs (relative or absolute) and page titles. Let’s go with an array of objects
 let pages = [
     { url: '', title: 'Home' },
-    { url: 'projects/', title: 'Projects' },
-    { url: 'resume/', title: 'Resume' },
-    { url: 'contact/', title: 'Contact' },
+    { url: './projects/', title: 'Projects' },
+    { url: './resume/', title: 'Resume' },
+    { url: './contact/', title: 'Contact' },
     { url: 'https://github.com/mlyang1', title: 'GitHub' }
     // add the rest of your pages here
   ];
