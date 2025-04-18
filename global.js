@@ -21,9 +21,9 @@ function $$(selector, context = document) {
 // As we saw in the slides, there are many ways to design a data structure to hold the association of URLs (relative or absolute) and page titles. Let’s go with an array of objects
 let pages = [
     { url: '', title: 'Home' },
-    { url: './projects/', title: 'Projects' },
-    { url: './resume/', title: 'Resume' },
-    { url: './contact/', title: 'Contact' },
+    { url: 'projects/', title: 'Projects' },
+    { url: 'resume/', title: 'Resume' },
+    { url: 'contact/', title: 'Contact' },
     { url: 'https://github.com/mlyang1', title: 'GitHub' }
     // add the rest of your pages here
   ];
@@ -43,7 +43,7 @@ for (let p of pages) {
     // // If we’re on GitHub Pages, it will be something like "yourusername.github.io".
     const BASE_PATH = (location.hostname === "localhost" || location.hostname === "127.0.0.1")
         ? "/"                  // Local server
-        : "/website/";         // GitHub Pages repo name
+        : "/portfolio/";         // GitHub Pages repo name
     // // Then, when creating the links, we’ll check if the URL is relative (i.e. does not start with "http"),
     // // and if so, we’ll prefix it with the BASE_PATH. This ensures that all internal links work properly both locally and when deployed.
     // if (!url.startsWith('http')) {
