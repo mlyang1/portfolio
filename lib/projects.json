@@ -1,5 +1,20 @@
 [
     {
+      "title": "DSC 106 Project 1: ",
+      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+      "description": "Culpa illo odio ut pariatur fuga nisi eos distinctio, eveniet, mollitia quis veritatis dolor! Asperiores delectus earum animi possimus! Deleniti amet vero accusantium voluptatem eum, iusto delectus voluptates quae eligendi."
+    },
+    {
+      "title": "DSC 106 Project 2: ",
+      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+      "description": "Excepturi sit voluptatem fugit maxime eos soluta ad odit sed, consequatur rem asperiores facilis debitis reiciendis quasi officiis numquam laboriosam tempora quaerat id quis magnam dolores cum! Corporis, accusamus et."
+    },
+    {
+      "title": "DSC 106 Project 3: ",
+      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+      "description": "Excepturi sit voluptatem fugit maxime eos soluta ad odit sed, consequatur rem asperiores facilis debitis reiciendis quasi officiis numquam laboriosam tempora quaerat id quis magnam dolores cum! Corporis, accusamus et."
+    },
+    {
       "title": "HHub: Mapping Eviction Trends in San Diego County",
       "image": "https://vis-society.github.io/labs/2/images/empty.svg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum blanditiis voluptatibus, facilis nulla quaerat eligendi quas nesciunt aliquam eius natus similique a excepturi nihil harum hic delectus nostrum vel atque."
@@ -13,16 +28,6 @@
       "title": "HHub: Government Case Study - Homelessness Service Ecosystem Evaluation",
       "image": "https://vis-society.github.io/labs/2/images/empty.svg",
       "description": "Voluptatum veritatis sed facilis porro pariatur aliquam similique facere culpa nesciunt aperiam enim excepturi cum quo dolores tempora vel, nihil inventore cumque voluptate! Temporibus sit adipisci omnis deleniti amet reprehenderit."
-    },
-    {
-      "title": "DSC 106 Project 1: ",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "Culpa illo odio ut pariatur fuga nisi eos distinctio, eveniet, mollitia quis veritatis dolor! Asperiores delectus earum animi possimus! Deleniti amet vero accusantium voluptatem eum, iusto delectus voluptates quae eligendi."
-    },
-    {
-      "title": "DSC 106 Project 2: ",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "Excepturi sit voluptatem fugit maxime eos soluta ad odit sed, consequatur rem asperiores facilis debitis reiciendis quasi officiis numquam laboriosam tempora quaerat id quis magnam dolores cum! Corporis, accusamus et."
     },
     {
       "title": "USP 1",
@@ -55,5 +60,22 @@
       "quarter": "Winter",
       "image": "https://vis-society.github.io/labs/2/images/empty.svg",
       "description": "Ut cumque dignissimos officiis accusamus ducimus, repudiandae, quia accusantium minus reprehenderit impedit veritatis ullam! Dicta fugit nostrum doloribus dolore, sit natus quis vitae, molestias debitis corporis esse amet cumque nihil."
+    },
+    {
+      "title": "DSC 80",
+      "year": "2023",
+      "quarter": "Spring",
+      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+      "description": "Ut cumque dignissimos officiis accusamus ducimus, repudiandae, quia accusantium minus reprehenderit impedit veritatis ullam! Dicta fugit nostrum doloribus dolore, sit natus quis vitae, molestias debitis corporis esse amet cumque nihil."
+    },
+    {
+      "title": "CJARS CIIGP: Disinform, Demotivate, Distract: How Propaganda ",
+      "year": "2025",
+      "quarter": "Winter",
+      "type": "StoryMap",
+      "link": "https://storymaps.arcgis.com/stories/680ffbbe4d0b41c5b9e518b5049ade51",
+      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+      "description": "This StoryMap details the impact and interconnection of propaganda on the climate crisis."
+    
     }
   ]
