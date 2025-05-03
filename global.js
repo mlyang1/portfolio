@@ -193,8 +193,14 @@ export function renderProjects(projects, containerElement, headingLevel = 'h2') 
         //Use the innerHTML property to populate the <article> element with dynamic content.
         article.innerHTML = `
             <${headingLevel}>${project.title}</${headingLevel}>
+            
             <img src="${project.image}" alt="${project.title}">
-            <p>${project.description}</p>
+
+            <div class="wrapper">
+              <div class="description">${project.description}</div>
+              <div class="year">${project.quarter} ${project.year}</div>
+            </div>
+            
         `;
         //THINK ABOUT IT:
         // What happens if one of the properties, like project.image, is missing?

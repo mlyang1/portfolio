@@ -166,3 +166,59 @@ label.color-scheme {
     grid-row: 2;
   }
 }
+
+div.year {
+  font-family: Baskerville;
+  font-variant-numeric: oldstyle-nums;
+  text-align: right;
+}
+
+#projects-plot {
+  max-width: 20em;
+  margin-block: 2em;
+
+  overflow: visible;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+
+.legend {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(9em, 1fr));
+  gap: 0.5em;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 0.5em;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.swatch {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  aspect-ratio: 1 / 1;
+  border-radius: 50%;
+  background-color: var(--color);
+}
+
+
+&:has(path:hover) {
+  path:not(:hover) {
+    opacity: 0.5;
+  }
+}
+
+path {
+  transition: 300ms;
+  cursor: pointer;
+}
