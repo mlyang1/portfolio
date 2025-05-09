@@ -1,103 +1,102 @@
 [
-    {
-      "title": "DSC 106 Project 1: ",
-      "year": "2025",
-      "quarter": "Spring",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "Culpa illo odio ut pariatur fuga nisi eos distinctio, eveniet, mollitia quis veritatis dolor! Asperiores delectus earum animi possimus! Deleniti amet vero accusantium voluptatem eum, iusto delectus voluptates quae eligendi."
-    },
-    {
-      "title": "DSC 106 Project 2: ",
-      "year": "2025",
-      "quarter": "Spring",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "Excepturi sit voluptatem fugit maxime eos soluta ad odit sed, consequatur rem asperiores facilis debitis reiciendis quasi officiis numquam laboriosam tempora quaerat id quis magnam dolores cum! Corporis, accusamus et."
-    },
-    {
-      "title": "DSC 106 Project 3: ",
-      "year": "2025",
-      "quarter": "Spring",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "Excepturi sit voluptatem fugit maxime eos soluta ad odit sed, consequatur rem asperiores facilis debitis reiciendis quasi officiis numquam laboriosam tempora quaerat id quis magnam dolores cum! Corporis, accusamus et."
-    },
-    {
-      "title": "HHub: Mapping Eviction Trends in San Diego County",
-      "year": "2024",
-      "quarter": "Fall",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum blanditiis voluptatibus, facilis nulla quaerat eligendi quas nesciunt aliquam eius natus similique a excepturi nihil harum hic delectus nostrum vel atque."
-    },
-    {
-      "title": "HHub: Visualizing Trends in Users of San Diego Emergency Shelters",
-      "year": "2024",
-      "quarter": "Fall",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "Doloremque iste consectetur, rerum perferendis provident culpa laborum voluptatum. Error, veniam deserunt! Nam consequuntur officia perferendis delectus, ex tempore modi optio doloribus deserunt cupiditate excepturi quidem, placeat sapiente culpa possimus!"
-    },
-    {
-      "title": "HHub: Government Case Study - Homelessness Service Ecosystem Evaluation",
-      "year": "2025",
-      "quarter": "Winter",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "Voluptatum veritatis sed facilis porro pariatur aliquam similique facere culpa nesciunt aperiam enim excepturi cum quo dolores tempora vel, nihil inventore cumque voluptate! Temporibus sit adipisci omnis deleniti amet reprehenderit."
-    },
-    {
-      "title": "USP 1",
-      "year": "2023",
-      "quarter": "Fall",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "Tempore ad optio minima facere temporibus quisquam tempora tenetur suscipit perspiciatis, delectus, autem natus aperiam maiores minus quibusdam consequuntur reprehenderit eligendi fuga assumenda voluptates. Blanditiis maxime id iure quasi veniam?"
-    },
-    {
-      "title": "USP 2",
-      "year": "2024",
-      "quarter": "Fall",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "Repudiandae atque architecto itaque autem culpa modi magni deserunt perspiciatis alias, est ex sapiente ea dicta nemo assumenda accusantium doloribus voluptatem provident placeat dolores rem doloremque corrupti fugit expedita! Qui."
-    },
-    {
-      "title": "USP 4",
-      "year": "2022",
-      "quarter": "Fall",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "Soluta qui eum ipsam quas perferendis minus saepe porro perspiciatis consectetur, hic aliquam pariatur nesciunt rerum facere dicta quidem. Architecto eligendi magni possimus similique eum, consequuntur placeat quidem. Quibusdam, repellat?"
-    },
-    {
-      "title": "USP 124 City of Eastvale General Plan Evaluation",
-      "year": "2023",
-      "quarter": "Fall",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "Excepturi mollitia natus sit in voluptatum suscipit voluptate, magnam itaque quia? Possimus deleniti asperiores nisi ad dignissimos accusamus nostrum sequi a eos non tempore culpa mollitia sapiente vero, alias omnis!"
-    },
-    {
-      "title": "USP 125",
-      "year": "2023",
-      "quarter": "Fall",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "Vero, consequatur nostrum facere minima perferendis veritatis quas unde impedit mollitia itaque, sapiente, dicta minus. Vel, maxime dolorum quo officia consequuntur tempore cupiditate consectetur est maiores, nostrum, aut vitae reprehenderit?"
-    },
-    {
-      "title": "USP 179 Reimagining Ray Street",
-      "year": "2025",
-      "quarter": "Winter",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "Ut cumque dignissimos officiis accusamus ducimus, repudiandae, quia accusantium minus reprehenderit impedit veritatis ullam! Dicta fugit nostrum doloribus dolore, sit natus quis vitae, molestias debitis corporis esse amet cumque nihil."
-    },
-    {
-      "title": "DSC 80",
-      "year": "2023",
-      "quarter": "Spring",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "Ut cumque dignissimos officiis accusamus ducimus, repudiandae, quia accusantium minus reprehenderit impedit veritatis ullam! Dicta fugit nostrum doloribus dolore, sit natus quis vitae, molestias debitis corporis esse amet cumque nihil."
-    },
-    {
-      "title": "CJARS Climate Issues & Interconnections: Disinform, Demotivate, Distract: How Propaganda Fuels the Climate Crisis",
-      "year": "2025",
-      "quarter": "Winter",
-      "type": "StoryMap",
-      "link": "https://storymaps.arcgis.com/stories/680ffbbe4d0b41c5b9e518b5049ade51",
-      "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-      "description": "This StoryMap details the impact and interconnection of propaganda on the climate crisis."
-    
-    }
-  ]
+  {
+    "title": "DSC 106 Project 1: ",
+    "year": "2025",
+    "quarter": "Spring",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Culpa illo odio ut pariatur fuga nisi eos distinctio, eveniet, mollitia quis veritatis dolor! Asperiores delectus earum animi possimus! Deleniti amet vero accusantium voluptatem eum, iusto delectus voluptates quae eligendi."
+  },
+  {
+    "title": "DSC 106 Project 2: ",
+    "year": "2025",
+    "quarter": "Spring",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Excepturi sit voluptatem fugit maxime eos soluta ad odit sed, consequatur rem asperiores facilis debitis reiciendis quasi officiis numquam laboriosam tempora quaerat id quis magnam dolores cum! Corporis, accusamus et."
+  },
+  {
+    "title": "DSC 106 Project 3: ",
+    "year": "2025",
+    "quarter": "Spring",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Excepturi sit voluptatem fugit maxime eos soluta ad odit sed, consequatur rem asperiores facilis debitis reiciendis quasi officiis numquam laboriosam tempora quaerat id quis magnam dolores cum! Corporis, accusamus et."
+  },
+  {
+    "title": "HHub: Mapping Eviction Trends in San Diego County",
+    "year": "2024",
+    "quarter": "Fall",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum blanditiis voluptatibus, facilis nulla quaerat eligendi quas nesciunt aliquam eius natus similique a excepturi nihil harum hic delectus nostrum vel atque."
+  },
+  {
+    "title": "HHub: Visualizing Trends in Users of San Diego Emergency Shelters",
+    "year": "2024",
+    "quarter": "Fall",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Doloremque iste consectetur, rerum perferendis provident culpa laborum voluptatum. Error, veniam deserunt! Nam consequuntur officia perferendis delectus, ex tempore modi optio doloribus deserunt cupiditate excepturi quidem, placeat sapiente culpa possimus!"
+  },
+  {
+    "title": "HHub: Government Case Study - Homelessness Service Ecosystem Evaluation",
+    "year": "2025",
+    "quarter": "Winter",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Voluptatum veritatis sed facilis porro pariatur aliquam similique facere culpa nesciunt aperiam enim excepturi cum quo dolores tempora vel, nihil inventore cumque voluptate! Temporibus sit adipisci omnis deleniti amet reprehenderit."
+  },
+  {
+    "title": "USP 1",
+    "year": "2023",
+    "quarter": "Fall",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Tempore ad optio minima facere temporibus quisquam tempora tenetur suscipit perspiciatis, delectus, autem natus aperiam maiores minus quibusdam consequuntur reprehenderit eligendi fuga assumenda voluptates. Blanditiis maxime id iure quasi veniam?"
+  },
+  {
+    "title": "USP 2",
+    "year": "2024",
+    "quarter": "Fall",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Repudiandae atque architecto itaque autem culpa modi magni deserunt perspiciatis alias, est ex sapiente ea dicta nemo assumenda accusantium doloribus voluptatem provident placeat dolores rem doloremque corrupti fugit expedita! Qui."
+  },
+  {
+    "title": "USP 4",
+    "year": "2022",
+    "quarter": "Fall",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Soluta qui eum ipsam quas perferendis minus saepe porro perspiciatis consectetur, hic aliquam pariatur nesciunt rerum facere dicta quidem. Architecto eligendi magni possimus similique eum, consequuntur placeat quidem. Quibusdam, repellat?"
+  },
+  {
+    "title": "USP 124 City of Eastvale General Plan Evaluation",
+    "year": "2023",
+    "quarter": "Fall",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Excepturi mollitia natus sit in voluptatum suscipit voluptate, magnam itaque quia? Possimus deleniti asperiores nisi ad dignissimos accusamus nostrum sequi a eos non tempore culpa mollitia sapiente vero, alias omnis!"
+  },
+  {
+    "title": "USP 125",
+    "year": "2023",
+    "quarter": "Fall",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Vero, consequatur nostrum facere minima perferendis veritatis quas unde impedit mollitia itaque, sapiente, dicta minus. Vel, maxime dolorum quo officia consequuntur tempore cupiditate consectetur est maiores, nostrum, aut vitae reprehenderit?"
+  },
+  {
+    "title": "USP 179 Reimagining Ray Street",
+    "year": "2025",
+    "quarter": "Winter",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Ut cumque dignissimos officiis accusamus ducimus, repudiandae, quia accusantium minus reprehenderit impedit veritatis ullam! Dicta fugit nostrum doloribus dolore, sit natus quis vitae, molestias debitis corporis esse amet cumque nihil."
+  },
+  {
+    "title": "DSC 80",
+    "year": "2023",
+    "quarter": "Spring",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Ut cumque dignissimos officiis accusamus ducimus, repudiandae, quia accusantium minus reprehenderit impedit veritatis ullam! Dicta fugit nostrum doloribus dolore, sit natus quis vitae, molestias debitis corporis esse amet cumque nihil."
+  },
+  {
+    "title": "CJARS Climate Issues & Interconnections: Disinform, Demotivate, Distract: How Propaganda Fuels the Climate Crisis",
+    "year": "2025",
+    "quarter": "Winter",
+    "type": "StoryMap",
+    "link": "https://storymaps.arcgis.com/stories/680ffbbe4d0b41c5b9e518b5049ade51",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This StoryMap details the impact and interconnection of propaganda on the climate crisis."
+  }
+]

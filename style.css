@@ -3,27 +3,27 @@
   color-scheme: light dark;
 }
 
-
 body {
-    
-    font: 100%/1.5 system-ui; /* Set line height to 1.5 times the font size
+  font: 100%/1.5 system-ui; /* Set line height to 1.5 times the font size
     and use the OS’s UI font as the website font
     */
 
-    /*https://www.reddit.com/r/css/comments/1bg70le/comment/kv596rf/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button*/
-    font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  /*https://www.reddit.com/r/css/comments/1bg70le/comment/kv596rf/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button*/
+  font-family:
+    system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
-    max-width: 100ch;
-    margin-inline: auto; /* max(1em, (100% - 100ch) / 2)
+  max-width: 100ch;
+  margin-inline: auto; /* max(1em, (100% - 100ch) / 2)
     or just use auto
      */
 
-    accent-color: var(--color-accent);
+  accent-color: var(--color-accent);
 
-    line-height: 1.5;
-    padding-inline: 1em;
+  line-height: 1.5;
+  padding-inline: 1em;
 
-    /*
+  /*
     form label, form input, form textarea {
       display: block;
     }
@@ -37,13 +37,11 @@ body {
       margin-block: 10px;
     }
     */
-    
-    
-  }
+}
 
 nav {
   --border-color: oklch(50% 10% 200 / 40%);
-  
+
   display: contents;
   display: flex;
   margin-bottom: auto;
@@ -51,21 +49,24 @@ nav {
   border-bottom-width: 1px;
   border-bottom-style: solid;
   border-bottom-color: var(--border-color);
-
 }
 
-nav ul, nav li {
+nav ul,
+nav li {
   display: contents;
 }
 
 nav a {
-    flex: 1;
-    text-decoration: none;
-    color: inherit; /* makes links use same text color as parent*/
-    text-align: center;
-    padding: 0.5em;
-    padding-bottom: auto;
+  flex: 1;
+  text-decoration: none;
+  color: inherit; /* makes links use same text color as parent*/
+  text-align: center;
+  padding: 0.5em;
+  padding-bottom: auto;
 
+  top: 0;
+  position: relative;
+  font-size: inherit;
 }
 
 nav a.current {
@@ -73,14 +74,11 @@ nav a.current {
   padding-bottom: 0.1em;
 }
 
-
 nav a:hover {
   border-bottom: 0.4em solid var(--color-accent);
   /* a mix of the background color and the special canvas color:*/
   background-color: color-mix(in oklch, var(--color-accent), canvas 85%);
-
 }
-
 
 form {
   display: grid;
@@ -100,7 +98,10 @@ form button {
   text-align: center;
 }
 
-form label input, form label textarea, button, select {
+form label input,
+form label textarea,
+button,
+select {
   width: 100%;
   box-sizing: border-box;
   font-family: inherit;
@@ -144,12 +145,13 @@ article p {
 }
 
 label.color-scheme {
-    position: absolute;
-    top: 1rem;
-    right: 1rem;
-    font-family: inherit;
-
-  }
+  position: absolute;
+  margin: 40px auto 0;
+  right: 1rem;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+}
 
 #profile-stats {
   dl {
@@ -157,11 +159,11 @@ label.color-scheme {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-auto-rows: auto;
   }
-  
+
   dt {
     grid-row: 1;
   }
-  
+
   dd {
     grid-row: 2;
   }
@@ -211,7 +213,6 @@ div.year {
   background-color: var(--color);
 }
 
-
 &:has(path:hover) {
   path:not(:hover) {
     opacity: 0.5;
@@ -221,4 +222,113 @@ div.year {
 path {
   transition: 300ms;
   cursor: pointer;
+}
+
+.gridlines {
+  stroke: var(--color-accent);
+  stroke-width: 0.5px;
+  stroke-dasharray: 2;
+  stroke-opacity: 0.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+  pointer-events: none;
+  transition: 300ms;
+  cursor: pointer;
+  &:hover {
+    stroke: var(--color-accent);
+    stroke-width: 1px;
+    stroke-opacity: 1;
+  }
+  &:not(:hover) {
+    opacity: 0.5;
+  }
+}
+
+d1.info {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.5em;
+  margin: 0;
+  dt {
+    font-weight: normal;
+    color: gray;
+  }
+  dd {
+    font-weight: bold;
+    color: black;
+  }
+
+  transition-duration: 500ms;
+  transition-property: opacity, visibility;
+}
+
+dl.info[hidden]:not(:hover, :focus-within) {
+  opacity: 0;
+  visibility: hidden;
+}
+
+
+.tooltip {
+  position: fixed;
+  top: 1em;
+  left: 1em;
+}
+
+circle {
+  transition: 200ms;
+  transform-origin: center;
+  transform-box: fill-box;
+  /* The transform-origin and transform-box properties are crucial here - 
+  without them, the dots would scale from their top-left corner rather than their center. */
+}
+
+circle:hover {
+  transform: scale(1.5);
+}
+
+circle.selected {
+  fill: #ff6b6b;
+}
+
+.selection {
+  fill-opacity: 0.1;
+  stroke: black;
+  stroke-opacity: 0.7;
+  stroke-dasharray: 5 3;
+  animation: marching-ants 2s linear infinite;
+}
+
+@keyframes marching-ants {
+  to {
+    stroke-dashoffset: -8; /* 5 + 3 */
+  }
+}
+
+.stats {
+  display: table;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.stats dl {
+  display: table-row;
+  
+}
+
+.stats dt {
+  display: table-row;
+  font-weight: bold;
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.stats dd {
+  display: table-row;
+  font-size: 14px;
+  margin-bottom: 10px;
 }

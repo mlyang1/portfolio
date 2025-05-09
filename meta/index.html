@@ -1,0 +1,42 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="stylesheet" href="../style.css" />
+  <script src="main.js" type="module"></script>
+
+  <title>Meta</title>
+</head>
+
+<body>
+    <h1>Meta</h1>
+    <p>
+        This is a meta page for for testing the structure and layout of the website.
+        It contains no content and is not meant to be displayed to users.
+    </p>
+
+    <div id="stats"></div>
+
+    <h2>Commits by time of day</h2>
+
+    <div id="chart"></div>
+
+    <dl id="commit-tooltip" class="info tooltip" hidden>
+
+        <dt>Commit</dt>
+        <dd>
+          <a href="" id="commit-link" target="_blank"></a>
+        </dd>
+      
+        <dt>Date</dt>
+        <dd id="commit-date"></dd>
+      
+        <!-- Add: Time, author, lines edited -->
+    </dl>
+
+    <p id="selection-count">No commits selected</p>
+
+    <dl id="language-breakdown" class="stats"></dl>
+      
+
+</body>
