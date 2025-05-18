@@ -194,11 +194,14 @@ export function renderProjects(
       article.innerHTML = `
             <${headingLevel}>${project.title}</${headingLevel}>
             
-            <img src="${project.image}" alt="${project.title}">
+            <a href="${project.link}" target="_blank">
+              <img src="${project.image}" alt="${project.title}" height="200" width="280" padding="10" />
+
+            </a>
 
             <div class="wrapper">
               <div class="description">${project.description}</div>
-              <div class="year">${project.quarter} ${project.year}</div>
+              <div class="year">${project["subject code"]} ${project["course number"]} <b>|</b> ${project.quarter} ${project.year}</div>
             </div>
             
         `;

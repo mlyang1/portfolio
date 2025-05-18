@@ -1,20 +1,41 @@
 [
   {
-    "title": "DSC 106 Project 1: ",
+    "title": "Bikewatching: Geospatial Visualization of BlueBikes usage in Boston & Cambridge (March 2024)",
+    "subject code": "DSC",
+    "course number": "106",
+    "course name": "Data Visualization",
+    "year": "2025",
+    "quarter": "Spring",
+    "link": "https://mlyang1.github.io/bikewatching",
+    "image": "../images/Screenshot 2025-05-17 220203.png",
+    "description": ""
+  },
+  {
+    "title": "Project 1: ",
+    "subject code": "DSC",
+    "course number": "106",
+    "course name": "Data Visualization",
     "year": "2025",
     "quarter": "Spring",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
     "description": "Culpa illo odio ut pariatur fuga nisi eos distinctio, eveniet, mollitia quis veritatis dolor! Asperiores delectus earum animi possimus! Deleniti amet vero accusantium voluptatem eum, iusto delectus voluptates quae eligendi."
   },
   {
-    "title": "DSC 106 Project 2: ",
+    "title": "Project 2: ",
+    "subject code": "DSC",
+    "course number": "106",
+    "course name": "Data Visualization",
     "year": "2025",
     "quarter": "Spring",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "link": "https://mlyang1.github.io/portfolio/projects/project2/",
+    "image": "https://mlyang1.github.io/portfolio/projects/project2/images/dsc106_proj2_2a.png",
     "description": "Excepturi sit voluptatem fugit maxime eos soluta ad odit sed, consequatur rem asperiores facilis debitis reiciendis quasi officiis numquam laboriosam tempora quaerat id quis magnam dolores cum! Corporis, accusamus et."
   },
   {
     "title": "DSC 106 Project 3: ",
+    "subject code": "DSC",
+    "course number": "106",
+    "course name": "Data Visualization",
     "year": "2025",
     "quarter": "Spring",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
@@ -43,6 +64,9 @@
   },
   {
     "title": "USP 1",
+    "subject code": "USP",
+    "course number": "1",
+    "course name": "History of U.S. Urban Communities",
     "year": "2023",
     "quarter": "Fall",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
@@ -50,6 +74,9 @@
   },
   {
     "title": "USP 2",
+    "subject code": "USP",
+    "course number": "2",
+    "course name": "Urban World System",
     "year": "2024",
     "quarter": "Fall",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
@@ -57,13 +84,19 @@
   },
   {
     "title": "USP 4",
+    "subject code": "USP",
+    "course number": "4",
+    "course name": "Introduction to Geographic Information Systems",
     "year": "2022",
     "quarter": "Fall",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
     "description": "Soluta qui eum ipsam quas perferendis minus saepe porro perspiciatis consectetur, hic aliquam pariatur nesciunt rerum facere dicta quidem. Architecto eligendi magni possimus similique eum, consequuntur placeat quidem. Quibusdam, repellat?"
   },
   {
-    "title": "USP 124 City of Eastvale General Plan Evaluation",
+    "title": "City of Eastvale General Plan Evaluation",
+    "subject code": "USP",
+    "course number": "124",
+    "course name": "Land Use Planning",
     "year": "2023",
     "quarter": "Fall",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
@@ -71,32 +104,144 @@
   },
   {
     "title": "USP 125",
+    "subject code": "USP",
+    "course number": "125",
+    "course name": "The Design of Social Research",
     "year": "2023",
     "quarter": "Fall",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
     "description": "Vero, consequatur nostrum facere minima perferendis veritatis quas unde impedit mollitia itaque, sapiente, dicta minus. Vel, maxime dolorum quo officia consequuntur tempore cupiditate consectetur est maiores, nostrum, aut vitae reprehenderit?"
   },
   {
-    "title": "USP 179 Reimagining Ray Street",
+    "title": "Bay Park Plaza",
+    "subject code": "USP",
+    "course number": "175",
+    "course name": "Site Analysis",
+    "year": "2024",
+    "quarter": "Fall",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Ut cumque dignissimos officiis accusamus ducimus, repudiandae, quia accusantium minus reprehenderit impedit veritatis ullam! Dicta fugit nostrum doloribus dolore, sit natus quis vitae, molestias debitis corporis esse amet cumque nihil."
+  },
+  {
+    "title": "Reimagining Ray Street",
+    "subject code": "USP",
+    "course number": "179",
+    "course name": "Urban Design, Theory, and Practice",
     "year": "2025",
     "quarter": "Winter",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
     "description": "Ut cumque dignissimos officiis accusamus ducimus, repudiandae, quia accusantium minus reprehenderit impedit veritatis ullam! Dicta fugit nostrum doloribus dolore, sit natus quis vitae, molestias debitis corporis esse amet cumque nihil."
   },
   {
+    "title": "Portfolio Piece",
+    "subject code": "USP",
+    "course number": "172",
+    "course name": "Graphics, Visual Communication, and Urban Information",
+    "year": "2025",
+    "quarter": "Spring",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Ut cumque dignissimos officiis accusamus ducimus, repudiandae, quia accusantium minus reprehenderit impedit veritatis ullam! Dicta fugit nostrum doloribus dolore, sit natus quis vitae, molestias debitis corporis esse amet cumque nihil."
+  },
+  {
     "title": "DSC 80",
+    "subject code": "DSC",
+    "course number": "80",
+    "course name": "Practice and Application of Data Science",
     "year": "2023",
     "quarter": "Spring",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
     "description": "Ut cumque dignissimos officiis accusamus ducimus, repudiandae, quia accusantium minus reprehenderit impedit veritatis ullam! Dicta fugit nostrum doloribus dolore, sit natus quis vitae, molestias debitis corporis esse amet cumque nihil."
   },
   {
-    "title": "CJARS Climate Issues & Interconnections: Disinform, Demotivate, Distract: How Propaganda Fuels the Climate Crisis",
+    "title": "Climate Issues & Interconnections: Disinform, Demotivate, Distract: How Propaganda Fuels the Climate Crisis",
+    "subject code": "USP",
+    "course number": "128A",
+    "course name": "Climate Action Scholars: Community Engagement and Research",
     "year": "2025",
     "quarter": "Winter",
     "type": "StoryMap",
     "link": "https://storymaps.arcgis.com/stories/680ffbbe4d0b41c5b9e518b5049ade51",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
     "description": "This StoryMap details the impact and interconnection of propaganda on the climate crisis."
+  },
+  {
+    "title": "Capstone Project",
+    "subject code": "USP",
+    "course number": "128B",
+    "course name": "Climate Action Scholars: Capstone Project",
+    "year": "2025",
+    "quarter": "Spring",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": ""
+  },
+  {
+    "title": "",
+    "subject code": "COMP",
+    "course number": "3278",
+    "course name": "Introduction to Database Management Systems",
+    "year": "2024",
+    "quarter": "Spring",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This course studies the principles, design, administration, and implementation of database management systems. Topics include: entity-relationship model, relational model, relational algebra, database design and normalization, database query languages, indexing schemes, integrity, and concurrency control."
+  },
+  {
+    "title": "",
+    "subject code": "ENGL",
+    "course number": "2163",
+    "course name": "Comics, Graphic Novels and Theory",
+    "year": "2024",
+    "quarter": "Spring",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "The course introduces students to the graphic novel (book-length comics) as a relatively \"new\" genre of contemporary literature. The course consists of a survey of key texts and provides students with the necessary critical toolkit used to analyze visual literatures.  Over the course of the semester, we will focus on the “form” of the graphic novel and how it creates arguments about gender, class, sexuality and race. This course will also be an introduction to the critical methods and theories used to interpret the unique relationship between text and image."
+  },
+  {
+    "title": "",
+    "subject code": "USP",
+    "course number": "191A",
+    "course name": "Intermediate GIS for Urban and Community Planning",
+    "year": "2023",
+    "quarter": "Fall",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": ""
+  },
+  {
+    "title": "The Right to the River",
+    "subject code": "USP",
+    "course number": "187",
+    "course name": "Senior Sequence Research Project",
+    "year": "2025",
+    "quarter": "Winter",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": ""
+  },
+  {
+    "title": "",
+    "subject code": "GEOG",
+    "course number": "3414",
+    "course name": "Social Justice & the City",
+    "year": "2024",
+    "quarter": "Spring",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": ""
+  },
+  {
+    "title": "",
+    "subject code": "USP",
+    "course number": "164",
+    "course name": "Cities in Film",
+    "year": "2025",
+    "quarter": "Spring",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": ""
+  },
+  {
+    "title": "",
+    "subject code": "COGS",
+    "course number": "108",
+    "course name": "Data Science in Practice",
+    "year": "2024",
+    "quarter": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": ""
   }
 ]
